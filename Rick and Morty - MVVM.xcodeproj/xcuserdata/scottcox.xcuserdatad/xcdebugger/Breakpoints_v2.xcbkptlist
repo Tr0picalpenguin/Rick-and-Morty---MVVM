@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A85BFD1C-3960-4517-AC99-69A9EC3CFF39"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FEA0A26-C1E0-466A-A0C6-C65D55B09DE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick and Morty - MVVM/Services/NetworkingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchTopLevelDictionary(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89CCDD4B-1D00-478C-8592-9E22BB0F13D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick and Morty - MVVM/Services/NetworkingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "fetchCharacter(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "89CCDD4B-1D00-478C-8592-9E22BB0F13D6 - f66e8817fd6e037b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static Rick_and_Morty___MVVM.NetworkingController.fetchCharacter(with: Swift.String, completion: (Swift.Result&lt;Rick_and_Morty___MVVM.ResultsDictionary, Rick_and_Morty___MVVM.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Rick and Morty - MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottcox/Developer/Stateful/Unit%206/Unit%206.3/Paired%20Programming%20Project/Rick%20and%20Morty%20-%20MVVM/Rick%20and%20Morty%20-%20MVVM/Services/NetworkingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "277">
+               </Location>
+               <Location
+                  uuid = "89CCDD4B-1D00-478C-8592-9E22BB0F13D6 - f66e8817fd6e037b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static Rick_and_Morty___MVVM.NetworkingController.fetchCharacter(with: Swift.String, completion: (Swift.Result&lt;Rick_and_Morty___MVVM.ResultsDictionary, Rick_and_Morty___MVVM.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Rick and Morty - MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scottcox/Developer/Stateful/Unit%206/Unit%206.3/Paired%20Programming%20Project/Rick%20and%20Morty%20-%20MVVM/Rick%20and%20Morty%20-%20MVVM/Services/NetworkingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "311">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E557FF0B-A7A1-4722-9FAE-43CD3004EE1B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick and Morty - MVVM/Character List/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchNextPage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFEA52C9-7AB3-438C-9457-3BD123D5C996"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick and Morty - MVVM/Character List/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchNextPage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4C52F26-CCA3-44B6-BEDB-0C327DE7823A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Rick and Morty - MVVM/Character List/CharacterListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "fetchNextPage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
